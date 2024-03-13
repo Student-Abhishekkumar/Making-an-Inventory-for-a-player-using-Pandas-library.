@@ -3,8 +3,7 @@ In this code i made an inventory for a player where he will store his item he bu
 
 # Code:-
 
-''' python
-#game inventory
+```python
 
 import pandas as pn
 
@@ -71,4 +70,4 @@ p=pn.DataFrame({
     "QUANTITY":quantity
 })    
 print(p)
-'''
+```
